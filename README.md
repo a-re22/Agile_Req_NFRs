@@ -3,7 +3,9 @@ Pre-trained Models for Identifying NFRs in Agile User Stories
 
 # Labels:
 Abbr.	Label
+
 FR: Functional
+
 CM: Compatibility
 MN: Maintainability
 SE: Security
